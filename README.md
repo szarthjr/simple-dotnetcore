@@ -2,8 +2,8 @@
 
 ## Rodando localmente
 
-$ dotnet restore
-$ dotnet run
+$ dotnet restore  
+$ dotnet run  
 $ dotnet publish -c Release -o out
 
 ## Docker
